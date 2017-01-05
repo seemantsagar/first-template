@@ -1,0 +1,24 @@
+.master
+{
+	margin-top:100px;
+}
+.c
+{
+	padding:0 !important;
+}
+.m
+{
+	margin: 2%;
+}
+.tabs
+{
+	padding: 1%;
+	margin-top: 2%;
+}
+.logo
+{
+	padding: 1%;
+}
+.col.s12 > .btn {
+   width: 100%;
+}
